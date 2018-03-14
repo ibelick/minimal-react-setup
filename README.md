@@ -10,7 +10,7 @@
 
 ## Installation
 
-* `git clone git@github.com:julienthibeaut/minimal-react-setup.git`
+* `git clone https://github.com/JulienThibeaut/minimal-react-setup.git`
 * cd minimal-react-setup
 * npm install
 * npm start
